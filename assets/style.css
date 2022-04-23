@@ -1,0 +1,37 @@
+#submit {
+    padding: 10px 40px;
+    background: #586e75;
+    border: #485c61 1px solid;
+    color: #FFF;
+    border-radius: 2px;
+    cursor:pointer;
+}
+#form {
+    background-color: #B7DBFF;
+	padding-top:10px;
+}
+
+.form-row {
+    padding: 20px;
+    border-top: #8aacb7 1px solid;
+}
+
+.input-field {
+    background: #FFF;
+    padding: 10px;
+    margin-left: 15px;
+    width: 250px;
+    border-radius: 2px;
+    border: #8aacb7 1px solid;
+}
+
+.button-row {
+    padding: 10px 20px;
+    border-top: #8aacb7 1px solid;
+}
+
+#validation-response {
+    display:none;
+    background: #fdc0c0;
+    padding: 10px 20px;
+}
